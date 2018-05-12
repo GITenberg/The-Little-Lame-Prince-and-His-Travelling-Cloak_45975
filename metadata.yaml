@@ -21,6 +21,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Dinah_Craik
 description: A crippled prince must reclaim his kingdom from his evil uncle, with
   the help of a magic cape from his godmother.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45975#The-Little-Lame-Prince-and-His-Travelling-Cloak
 gutenberg_issued: '2014-06-15'
 gutenberg_type: Text
 identifiers:
